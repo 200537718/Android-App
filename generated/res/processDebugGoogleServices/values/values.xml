@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://smartcartbuddy-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">675957500538</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnqRFlZv5WCoI2rE6vaYkAuYoijZYYwrs</string>
+    <string name="google_app_id" translatable="false">1:675957500538:android:a9ecb1065d20d56105a9c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnqRFlZv5WCoI2rE6vaYkAuYoijZYYwrs</string>
+    <string name="google_storage_bucket" translatable="false">smartcartbuddy.appspot.com</string>
+    <string name="project_id" translatable="false">smartcartbuddy</string>
+</resources>
